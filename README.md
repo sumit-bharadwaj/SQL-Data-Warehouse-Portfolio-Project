@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
@@ -102,3 +103,5 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+=======
+>>>>>>> 87f308cfd2afdf360bd9060d6cee8fb13db090d8
